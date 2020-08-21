@@ -67,7 +67,7 @@ RAL 3028,203-050-052,#CB3234,Reinrot,Pure  red,Rouge puro,Rojo puro,Rosso puro,
 RAL 3031,179-036-040,#B32428,Orientrot,Orient red,Rouge oriental,Rojo oriente,Rosso oriente,Oriëntrood
 RAL 3032,114-020-034,#721422,Perlrubinrot,Pearl ruby red,Rouge rubis nacré,Rojo rubí perlado,Rosso rubino perlato,"Parelmoer-donkerrood"
 RAL 3033,180-076-067,#B44C43,Perlrosa,Pearl pink,Rose nacré,Rosa perlado,Rosa perlato,"Parelmoer-lichtrood"
-RAL 4001,222-076-138,#6D3F5B,Rotlila,Red lilac,Lilas rouge,Rojo lila,Lilla rossastro,Roodlila
+RAL 4001,109-063-091,#6D3F5B,Rotlila,Red lilac,Lilas rouge,Rojo lila,Lilla rossastro,Roodlila
 RAL 4002,146-043-062,#922B3E,Rotviolett,Red violet,Violet rouge,Rojo violeta,Viola rossastro,Roodpaars
 RAL 4003,222-076-138,#DE4C8A,Erikaviolett,Heather violet,Violet bruyère,Violeta érica,Viola erica,Heidepaars
 RAL 4004,110-028-052,#641C34,Bordeauxviolett,Claret violet,Violet bordeaux,Burdeos,Viola bordeaux,Bordeauxpaars
@@ -83,7 +83,7 @@ RAL 5000,042-046-075,#354D73,Violettblau,Violet blue,Bleu violet,Azul violeta,Bl
 RAL 5001,031-052-056,#1F3438,Grünblau,Green blue,Bleu vert,Azul verdoso,Blu verdastro,Groenblauw
 RAL 5002,032-033-079,#20214F,Ultramarinblau,Ultramarine blue,Bleu outremer,Azul ultramar,Blu oltremare,Ultramarijnblauw
 RAL 5003,029-030-051,#1D1E33,Saphirblau,Saphire blue,Bleu saphir,Azul zafiro,Blu zaffiro,Saffierblauw
-RAL 5004,032-033-079,#18171C,Schwarzblau,Black blue,Bleu noir,Azul negruzco,Blu nerastro,Zwartblauw
+RAL 5004,024-023-028,#18171C,Schwarzblau,Black blue,Bleu noir,Azul negruzco,Blu nerastro,Zwartblauw
 RAL 5005,030-045-110,#1E2460,Signalblau,Signal blue,Bleu de sécurité,Azul señales,Blu segnale,Signaalblauw
 RAL 5007,062-095-138,#3E5F8A,Brillantblau,Brillant blue,Bleu brillant,Azul brillante,Blu brillante,Briljantblauw
 RAL 5008,038-037-045,#26252D,Graublau,Grey blue,Bleu gris,Azul grisáceo,Blu grigiastro,Grijsblauw
@@ -165,7 +165,7 @@ RAL 7031,071-075-078,#474B4E,Blaugrau,Blue grey,Gris bleu,Gris azulado,Grigio bl
 RAL 7032,184-183-153,#B8B799,Kieselgrau,Pebble grey,Gris silex,Gris guijarro,Grigio ghiaia,Kiezelgrijs
 RAL 7033,125-132-113,#7D8471,Zementgrau,Cement grey,Gris ciment,Gris cemento,Grigio cemento,Cementgrijs
 RAL 7034,143-139-102,#8F8B66,Gelbgrau,Yellow grey,Gris jaune,Gris amarillento,Grigio giallastro,Geelgrijs
-RAL 7035,215-215-215,#D7D7D7,Lichtgrau,Light grey,Gris clair,Gris luminoso,Grigio luce,Lichtgrijs
+RAL 7035,203-208-204,#CBD0CC,Lichtgrau,Light grey,Gris clair,Gris luminoso,Grigio luce,Lichtgrijs
 RAL 7036,127-118-121,#7F7679,Platingrau,Platinum grey,Gris platine,Gris platino,Grigio platino,Platinagrijs
 RAL 7037,125-127-120,#7D7F7D,Staubgrau,Dusty grey,Gris poussière,Gris polvo,Grigio polvere,Stofgrijs
 RAL 7038,195-195-195,#B5B8B1,Achatgrau,Agate grey,Gris agate,Gris ágata,Grigio agata,Agaatgrijs
@@ -209,6 +209,6 @@ RAL 9010,255-255-255,#FFFFFF,Reinweiß,Pure white,Blanc pur,Blanco puro,Bianco
 RAL 9011,028-028-028,#1C1C1C,Graphitschwarz,Graphite black,Noir graphite,Negro grafito,Nero grafite,Grafietzwart
 RAL 9016,246-246-246,#F6F6F6,Verkehrsweiß,Traffic white,Blanc signalisation,Blanco tráfico,Bianco traffico,Verkeerswit
 RAL 9017,030-030-030,#1E1E1E,Verkehrs-schwarz,Traffic black,Noir signalisation,Negro tráfico,Nero traffico,Verkeerszwart
-RAL 9018,215-215-215,#D7D7D7,Papyrusweiß,Papyrus white,Blanc papyrus,Blanco papiro,Bianco papiro,Papyruswit
+RAL 9018,207-211-205,#CFD3CD,Papyrusweiß,Papyrus white,Blanc papyrus,Blanco papiro,Bianco papiro,Papyruswit
 RAL 9022,156-156-156,#9C9C9C,Perlhellgrau,Pearl light grey,Gris clair nacré,Gris claro perlado,Grigio chiaro perlato,Parelmoer-lichtgrijs
 RAL 9023,130-130-130,#828282,Perldunkelgrau,Pearl dark grey,Gris fonçé nacré,Gris oscuro perlado,Grigio scuro perlato,Parelmoer-donkergrijs
