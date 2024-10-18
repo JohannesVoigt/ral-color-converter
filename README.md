@@ -10,7 +10,7 @@ This project provides a tool to convert the colors in any image to the closest m
 ## Installation
 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/image-ral-converter.git
+git clone https://github.com/JohannesVoigt/ral-color-converter.git
 cd ral-color-converter
 ```
 2. Create and Activate a Virtual Environment (optional but recommended):
