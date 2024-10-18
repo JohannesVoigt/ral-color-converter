@@ -3,8 +3,8 @@ This project provides a tool to convert the colors in any image to the closest m
 
 Example:
 <p align="center">
-  <img src="images/example3.jpg" width="200" alt="Original image">
-  <img src="converted/example3_ral.jpg" width="200" alt="Converted image">
+  <img src="images/example3.jpg" width="350" alt="Original image">
+  <img src="converted/example3_ral.jpg" width="350" alt="Converted image">
 </p>
 <p align="center">
   <b>Original Image</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Converted Image</b>
