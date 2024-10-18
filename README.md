@@ -1,8 +1,8 @@
 # Image color converter to RAL CLASSIC
-This project provides a tool to convert the colors in any image to the closest matching RAL classic colors. The script processes each pixel of the image and replaces its color with the corresponding RAL color based on RGB similarity. This can be useful for image analysis, design consistency, or color standardization in projects involving the RAL color system.
+This project provides a tool to convert the colors in any image to the closest matching RAL classic colors using a nearest-neighbor search on a k-d tree. The script processes each pixel of the image and replaces its color with the corresponding RAL color based on RGB similarity. This can be useful for image analysis, design consistency, or color standardization in projects involving the RAL color system.
 
 ## Features
-- Converts image colors to the closest matching RAL classic colors.
+- Converts image colors to the closest matching RAL classic colors using a nearest-neighbor search on a k-d tree.
 - Supports batch processing of images.
 - Provides an easy-to-use interface for handling image files and RAL color mapping.
 - The RAL color list used in this project is sourced from a [Gist by lunohodov](https://gist.github.com/lunohodov/1995178).
