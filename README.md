@@ -13,10 +13,11 @@ This project provides a tool to convert the colors in any image to the closest m
 git clone https://github.com/JohannesVoigt/ral-color-converter.git
 cd ral-color-converter
 ```
-2. Create and Activate a Virtual Environment (optional but recommended):
+2. Create a virtual environment (optional but recommended):
 ```bash
 python3 -m venv venv
 ```
+3. Activate the virtual environment
 * On Linux
 ```
 source venv/bin/activate
@@ -25,7 +26,7 @@ source venv/bin/activate
 ```
 venv\Scripts\activate
 ```
-3. Install Dependencies: Install the required Python libraries by running:
+4. Install Dependencies: Install the required Python libraries by running
 ```bash
 pip install .
 ```
