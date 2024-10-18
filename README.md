@@ -26,5 +26,5 @@ pip install .
 ## Usage
 Load your image(s) in the *images* folder and the tool will automatically map its colors to the nearest RAL equivalents by running the main script. Example usage:
 ```bash
-python convert_image.py
+python run_collor_converter.py
 ```
