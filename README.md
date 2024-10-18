@@ -16,7 +16,14 @@ cd ral-color-converter
 2. Create and Activate a Virtual Environment (optional but recommended):
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+* On Linux
+```
+source venv/bin/activate
+```
+* On Windows
+```
+venv\Scripts\activate
 ```
 3. Install Dependencies: Install the required Python libraries by running:
 ```bash
@@ -25,6 +32,11 @@ pip install .
 
 ## Usage
 Load your image(s) in the *images* folder and the tool will automatically map its colors to the nearest RAL equivalents by running the main script. Example usage:
+' On Linux
 ```bash
-python run_collor_converter.py  # On Windows: python .\run_color_converter.py
+python run_collor_converter.py
+```
+* On Windows
+```bash
+python .\run_color_converter.py
 ```
